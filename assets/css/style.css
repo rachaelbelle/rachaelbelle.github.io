@@ -90,39 +90,3 @@ wrapper {
   vertical-align: 0;
 
 }
-
-/*
-.badge {
-  background: #4aaaa5;
-  padding-top: 15px;
-  padding-bottom: 15px;
- }
-
-.container {
-  width: 83%;
-}
-
-.card-text {
-  font-size: 30px;
-  text-align: center;
-}
-
-.card {
-  margin: 25px;
-}
-
-.row2 {
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-wrap: wrap;
-  flex-wrap: wrap;
-  margin-left: 90px;
-}
-
-.row3 {
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-wrap: wrap;
-  flex-wrap: wrap;
-  margin-left: 90px;
-}
