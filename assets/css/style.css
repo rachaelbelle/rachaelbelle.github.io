@@ -50,7 +50,8 @@ body {
 
 .auth-image{
   border-radius: 50%;
-  width: 200px;
+  width: 225px;
+  margin-bottom: 15px;
   /* height: auto; */
 }
 
@@ -59,9 +60,9 @@ body {
   vertical-align: top;
   display: inline-block;
   text-align: center;
-  margin-left: 5px;
-  margin-right: 5px;
-  width: 150px;
+  margin-left: 15px;
+  margin-right: 15px;
+  width: 160px;
 }
 
 .centerText{
@@ -71,7 +72,7 @@ body {
 
 .library{
   text-align: center;
-  margin-top: -50px;
+  margin-top: -40px;
 }
 
 .description{
